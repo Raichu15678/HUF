@@ -1,0 +1,26 @@
+Keress API-t, amit fetch-elhetsz, hogy írasd ki weblapra
+az aznapi árfolyamot pl. usa dollárra pl. 339,12 Ft a mai,
+ euróra: 373.48 Ft
+Szép legyen, Githubodra tedd, és a WEBlap linkjét töltsd fel classroomra!
+
+1. Írd ki hány forint 1 usa dollár!
+2. Írd ki hány forint 1 euró!
+3. Még 3 tetsz?leges valutára írd ki, ami érdekel!
+4. Fetch-elve legyen, holnap is az aznapit írja ki!
+
+
+5. Beviteli mez?ben írhassam be mennyit akarok váltani, 
+lenyíló listában választhassuk ki valuta kódját (elég kb 5) pl. EUR
+és írja ki mennyi az aznapi árfolyam FT-ban 
+és az átváltott összeg Ft-ban.
+Pl. 
+Bemenet: 100, EUR(lenyilóban)
+Kimenet:
+1 EUR: 373.48 Ft
+100 EUR: 37348 Ft
+
+
+ Ha nem találsz mást itt van egy link,
+ amit ha megfejtesz( tömb, json, figyelj!!!), használd:
+ https://api.exchangerate-api.com/v4/latest/usd
+
